@@ -21,12 +21,7 @@ public class Main
         }
         else{
             System.out.println("Element not found!");
-        }
-        
-        
-        
-	
-		
+	}		
 	}
 }
 class LinearSearch{
