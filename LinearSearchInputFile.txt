@@ -1,0 +1,33 @@
+input array size
+5
+input array elements:
+2
+3
+4
+5
+6
+input your key:
+5
+Element found at index:3
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+input array size
+4
+input array elements:
+2
+3
+4
+5
+input your key:
+7
+Element not found!
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+
+
